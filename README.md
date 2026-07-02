@@ -13,7 +13,7 @@ The game allows the player to compete against the computer, which randomly selec
 
 ## Technologies Used
 
-- Python 3
+- Python 
 - random module
 
 ## Author
